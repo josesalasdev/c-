@@ -1,2 +1,3 @@
-# c-
-c++ codes
+# c++ codes
+
+code snippets in c ++
