@@ -9,5 +9,7 @@ int main() {
     robot();
     cout << math(10, 12);
     variables();
+    //input();
+    operationsWithStrings();
     return 0;
 }
