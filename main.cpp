@@ -3,6 +3,7 @@
 #include "Modules/math.h"
 #include "Modules/basics.h"
 #include "Modules/loops.h"
+#include "Modules/oop.h"
 using namespace std;
 
 int main() {
@@ -13,5 +14,6 @@ int main() {
     //input();
     operationsWithStrings();
     arrayLoops();
+    createMyClass();
     return 0;
 }
