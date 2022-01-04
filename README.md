@@ -1,3 +1,9 @@
-# c++ codes
+# C++ codes
 
-code snippets in c ++
+Code snippets in c++, modules, headers, files, and more.
+
+## Run app
+
+```bash
+make run
+```
