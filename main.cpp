@@ -2,6 +2,7 @@
 #include "Modules/robot.h"
 #include "Modules/math.h"
 #include "Modules/basics.h"
+#include "Modules/loops.h"
 using namespace std;
 
 int main() {
@@ -11,5 +12,6 @@ int main() {
     variables();
     //input();
     operationsWithStrings();
+    arrayLoops();
     return 0;
 }
